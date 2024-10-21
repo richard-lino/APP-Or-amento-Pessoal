@@ -10,8 +10,13 @@ Este projeto é uma aplicação simples para você controlar suas despesas pesso
 - **Filtrar despesas**: Use filtros pra encontrar despesas específicas por data, tipo, descrição e valor.
 
 ## Aplicação
-
-
+<table align="center">
+	<tr>
+		<th> <img width="400" src = "gif/ex1.gif"></th>
+		<th> <img width="400" src = "gif/ex2.gif"></th>
+      <th> <img width="400" src = "gif/ex3.gif"></th>
+	</tr>
+</table>
 
 ## Tecnologias usadas
 
