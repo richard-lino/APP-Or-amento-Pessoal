@@ -12,9 +12,9 @@ Este projeto é uma aplicação simples para você controlar suas despesas pesso
 ## Aplicação
 <table align="center">
 	<tr>
-		<th> <img width="400" src = "gif/ex1.gif"></th>
-		<th> <img width="400" src = "gif/ex2.gif"></th>
-      <th> <img width="400" src = "gif/ex3.gif"></th>
+		<th> <img width="400" src = "ex1.gif"></th>
+		<th> <img width="400" src = "ex2.gif"></th>
+      <th> <img width="400" src = "ex3.gif"></th>
 	</tr>
 </table>
 
